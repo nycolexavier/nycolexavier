@@ -1,5 +1,7 @@
-### Hi there 👋
+![Nycole Xavier](https://user-images.githubusercontent.com/74930052/113804216-82979d80-9734-11eb-848f-041bbc6422f6.jpg)
 
+
+### Hi there 👋
 
 **nycolexavier/nycolexavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 
