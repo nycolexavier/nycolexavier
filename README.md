@@ -4,10 +4,9 @@
 
 
 ### Hi there 👋
+Eu acabei de cair de paraquedas nesse mundo!
 
-Eu estou iniciando nesse mundo da tecnologia e por aqui posto meus reppositórios! Seja bem-vindo(a) ao meu pequeno grande mundo! 
-
-
+Estou iniciando nesse mundo da tecnologia e por aqui posto meus reppositórios! Seja bem-vindo(a) ao meu pequeno grande mundo! 
 
 
 
