@@ -8,7 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nycolexavier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="nycolexavier" height="30" width="40" /></a>
+ [twitter](https://twitter.com/nycolexavier)    
+<a href="https://twitter.com/nycolexavier" target="_blank"><img align="center" alt="nycolexavier" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/nycole-xavier-641271202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nycole-xavier-641271202/" height="30" width="40" /></a>
 <a href="https://instagram.com/nycolexavierr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="nycolexavierr" height="30" width="40" /></a>
 </p>
