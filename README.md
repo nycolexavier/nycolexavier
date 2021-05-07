@@ -1,14 +1,10 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Nycole Xavier</h1>
+# Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Nycole Xavier</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nycolexavier&label=Profile%20views&color=0e75b6&style=flat" alt="nycolexavier" /> </p>
-
-
-- 📫 How to reach me **nycole.xavierr@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-  <h4> <a href="https://twitter.com/nycolexavier">Twitter</a> &nbsp; </h4>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=nycolexavier&label=Profile%20views&color=0e75b6&style=flat" alt="nycolexavier" /> </p>
 
 
+📫 How to reach me: 
+  ##[Istagram]()
   <a href="https://www.linkedin.com/in/nycole-xavier-641271202/">Linkedin</a>
 
 
