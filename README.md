@@ -7,7 +7,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,
 
-## Estudando Visão computacional e Machine Learning 💻
+### Estudando Visão computacional e Machine Learning 💻
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nycolexavier&show_icons=true&locale=en&layout=compact" alt="nycolexavier" /></p>
 
