@@ -9,7 +9,6 @@
 
 ## Estudando Visão computacional e Machine Learning 💻
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nycolexavier&show_icons=true&locale=en&layout=compact" alt="nycolexavier" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nycolexavier&show_icons=true&locale=en" alt="nycolexavier" /></p>
