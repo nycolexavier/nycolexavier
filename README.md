@@ -3,13 +3,13 @@
      
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nycolexavier&label=Profile%20views&color=0e75b6&style=flat" alt="nycolexavier" /> </p>
  
-[Instagram](https://www.instagram.com/nycolexavierr/)
+<!--[Instagram](https://www.instagram.com/nycolexavierr/)!-->
  
 
 
 # Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,
 
-### Estudando Visão Computacional e Machine Learning 💻
+### Estudando Python para ciência de dados 💻
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nycolexavier&show_icons=true&locale=en&layout=compact" alt="nycolexavier" /></p>
 
