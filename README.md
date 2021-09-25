@@ -1,17 +1,17 @@
  
 <img align="right" width="300" src="./images/catcoding.gif" />
 
+<p> 🤚 Olá humano, meu nome é Nycole! </p>
 
-
-# 🤚 Olá humano, meu nome é Nycole!
-
-### 📜 Estudando Desenvolvimento Web e, nas horas vagas ciência de dados com Python.
-### 🤟 2º semestre de Ciência da Computação.
+<p>📜 Estudando Desenvolvimento Web e, nas horas vagas ciência de dados com Python. </p>
+<p>🤟 2º semestre de Ciência da Computação.</p>
 
 ---
-### Entre em contato:
-#### [Linkedin](https://www.linkedin.com/in/nycole-xavier-641271202/)
+<p> Let's talk? </p> :
 
-[Brasil](READMEBR.md)
- 
+
+---
+<p> Change the language: </p>
+<a href="" target="_blank"><a/>
+<a href="" target="_blank"></a>
 
