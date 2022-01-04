@@ -1,7 +1,7 @@
 <img align="right" width="300" src="./images/catcoding.gif" />
 
 <p> 🤚 ¡Hola humano, mi nombre es Nycole! Soy desarrollador de interfaz de usuario y diseñadora de interfaz de usuario</p>
-<p>📜 2º semestre de ciencias de la computación.</p>
+<p>📜 3º semestre de ciencias de la computación.</p>
 
 ---
 <p> 🎤 Vamos a hablar? </p>
