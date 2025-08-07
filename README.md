@@ -1,8 +1,7 @@
 
 <img align="right" width="300" src="./images/catcoding.gif" />
 
-<p> 🤚 Olá humano, meu nome é Nycole! Eu sou desenvolvedora Front-End e UI Designer</p>
-<p>📜 3º semestre de Ciência da Computação.</p>
+<p> 🤚 Olá humano, meu nome é Nycole! Eu sou desenvolvedora Full-Stack</p>
 
 ---
 <p> 🎤 Vamos conversar? </p>
